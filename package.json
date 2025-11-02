@@ -1,6 +1,7 @@
 {
   "name": "multi-model-chat",
   "version": "1.0.0",
+  "type": "module",
   "description": "Multi-model AI chat interface",
   "scripts": {
     "dev": "vite",
